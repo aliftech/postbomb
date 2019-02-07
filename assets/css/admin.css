@@ -1,0 +1,9 @@
+.navbar{
+    background:white;
+}
+.navbar .container .navbar-brand{
+    font-family:staatliches;
+    font-weight:1000;
+    color:black;
+    font-size:30px;
+}

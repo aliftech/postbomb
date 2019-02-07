@@ -1,0 +1,20 @@
+.navbar{
+    background:white;
+}
+.navbar .navbar-brand{
+    font-family:Staatliches;
+    font-weight:1000;
+    color:black;
+}
+.card .card-header{
+    background:black;
+    color:white;
+    font-weight:1000;
+    font-family:viga;
+}
+.registration{
+    margin-left:30px;
+}
+.footer{
+    margin-left:30px;
+}
